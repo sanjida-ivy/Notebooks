@@ -4,6 +4,8 @@
   <summary>Show Details</summary>
 
   This is the first slide. 
+  <button onclick="alert('Clicked!')">Click Me!</button> 
+
 </details>
 
 ---
