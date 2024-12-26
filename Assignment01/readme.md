@@ -1,28 +1,32 @@
+---
 **Slide 1: Introduction**
 
 <details>
-  <summary>Show Details</summary>
+  <summary>Click to Begin</summary>
 
-  This is the content for the first slide. 
-  You can add text, images, code blocks, and more here.
+  [Content for Slide 1]
 
+  <p>Next Slide →</p> 
 </details>
 
+---
 **Slide 2: Features**
 
 <details>
-  <summary>Show Details</summary>
+  <summary>Explore Features</summary>
 
-  This is the content for the second slide. 
-  List the key features of your project.
+  [Content for Slide 2]
 
+  <p>Next Slide →</p> 
 </details>
 
+---
 **Slide 3: Installation**
 
 <details>
-  <summary>Show Details</summary>
+  <summary>Get Started</summary>
 
-  Provide instructions on how to install your project.
+  [Content for Slide 3]
 
+  <p>Last Slide</p> 
 </details>
